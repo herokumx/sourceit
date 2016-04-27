@@ -1,0 +1,112 @@
+/*================Dark Index CSS==============*/
+
+
+
+#tr-preset #slider-section .overlay-bg, 
+#tr-preset .about-logo:before, 
+#tr-preset #schedule .overlay-bg, 
+#tr-preset #speakers .overlay-bg, 
+#tr-preset #registration .overlay-bg, 
+#tr-preset #main-slider .overlay-bg, 
+#tr-preset #home-section .overlay-bg, 
+#tr-preset #bg-video-section .overlay-bg, 
+#tr-preset #call-to-action .overlay-bg  {
+    background-color: rgba(0, 0, 0, 0.80);
+}
+
+#tr-preset .social-icons ul li i, 
+#tr-preset #countdown li span, 
+#tr-preset .about-content h1, 
+#tr-preset .about-content .btn-primary.register, 
+#tr-preset #what-u-learn .section-title h1, 
+#tr-preset #what-u-learn .learn i, 
+#tr-preset .price-section .section-title h1, 
+#tr-preset #support-us .section-title h1, 
+#tr-preset #faq-section h1, 
+#tr-preset .event-faq:hover h4, 
+#tr-preset #support-us .section-title a, 
+#tr-preset #contact-us .section-title h1, 
+#tr-preset .contact-content .contact-info:hover i, 
+#tr-preset .single-season.active-season .time, 
+#tr-preset .schedule-tab ul li.active a {
+	color:#444444
+}
+
+#tr-preset .social-icons ul li i:hover, 
+#tr-preset .about-content .btn-primary.register:hover {
+	color:#fff;
+}
+
+#tr-preset .btn-primary, 
+#tr-preset .price:hover, 
+#tr-preset .ticket-types .dropdown i {
+	background-color:#444444;
+}
+
+#tr-preset .btn-primary:hover, 
+#tr-preset .action-content .btn-primary{
+	background-color:transparent;
+}
+
+#tr-preset .btn-primary:hover:before, 
+#tr-preset .btn-primary:hover:after{
+	background-color: rgba(0, 0, 0, 0.70);
+}
+
+#tr-preset .btn-primary:before{
+	border-top:2px solid #444444;
+}
+
+#tr-preset .btn-primary:after{
+	border-bottom:2px solid #444444;
+}
+
+#tr-preset .btn-primary:hover, 
+#tr-preset .btn-primary:focus {
+	box-shadow: 0px 0px 0px 1px #444444;
+}
+
+#tr-preset .about-content .btn-primary.register, 
+#tr-preset .download-shedule .btn-primary {
+	background-color:transparent;
+}
+
+#tr-preset .about-content .btn-primary {
+	border:2px solid #444444;
+}
+
+#tr-preset .download-shedule .btn-primary:hover{
+	border:1px solid #444444;
+}
+
+#tr-preset .about-logo:after {
+	border-left: 179px solid rgba(0, 0, 0, 0.80);
+}
+
+#tr-preset .form-control:focus{
+	border-color:#444444;
+}
+
+#tr-preset #call-to-action .btn-primary:hover, 
+#tr-preset #call-to-action .btn-primary:focus {
+	background-color:#06498A;
+	box-shadow:none;
+	-webkit-box-shadow:none;
+}
+
+#tr-preset #call-to-action .btn-primary:hover:after, 
+#tr-preset #call-to-action .btn-primary:hover:before{
+	display:none;
+}
+
+.carousel-left i, .carousel-right i {
+	background-color:rgba(0, 0, 0, 0.70);
+}
+
+.carousel-left i:hover, .carousel-right i:hover {
+	background-color:rgba(0, 0, 0, 0.95);
+}
+
+#tr-preset #footer-bottom a {
+	color:#fff;
+}
