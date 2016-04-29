@@ -140,7 +140,7 @@ jQuery(function ($) {
 			clickable: false
 		});
 
-		var image = 'images/map-icon.png';
+		var image = 'map-icon.png';
 		map.addMarker({
 			lat: 35.038104,
 			lng: -15.804419,
