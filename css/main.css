@@ -903,6 +903,7 @@ transform: scale(1.2) rotate(-360deg);}
 /*=========Speakers Section==========*/
 
 #speakers {
+	background-image:url(../images/others/speaker-bg.jpg);
 	background-color:#92278f;
 	position:relative;
 	overflow:hidden;
